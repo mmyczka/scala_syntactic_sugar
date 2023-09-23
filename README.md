@@ -1,1 +1,1 @@
-#Syntactic sugar in Scala
+# Syntactic sugar in Scala
