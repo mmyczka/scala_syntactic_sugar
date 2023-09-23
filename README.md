@@ -1,1 +1,1 @@
-# once_for_good
+#Syntactic sugar in Scala
